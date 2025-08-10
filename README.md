@@ -161,7 +161,7 @@ calls to help with user input and program flow while developing and debugging.
 
 
 ### Other Things
-- [Requirements](#requirements)
+- [Requirements](#requirements))
 - [Installation](#installation)
 - [Coming Soon - Sagebox Roadmap](#coming-soon---sagebox-roadmap)
 - [Support Sagebox](#support-sagebox))
@@ -311,14 +311,12 @@ Look for releases in the next few weeks after this initial Sagebox release.
 
 # Requirements
 
-Sagebox/Sagebox has just been released.  It was originally started and used as a library package written for professional consulting applications to
+Sagebox has just been released as a full-functional Windows beta, with a Linux release in the works.  It was originally started and used as a library package written for professional consulting applications to
 dynamically emulate and control real-time systems.
 
-As a first release, it supports Windows-based Python and C++. 
+This beta release also supports Python and Rust, with proof-of-concept C# and Visual Basic libraries. 
 
-Sagebox Alpha Release currently supports Python 3.7, 3.9, and 3.10 on Windows Platforms
-
-VS Code, Visual Studio 2019 and Visual Studio 2022 work perfectly with Sagebox -- I recommend VS Code, with Visual 2019 as a good option. Visual Studio 2022 still seems to have some issues -- it works, but I recommend VS Code instead.
+VS Code, Visual Studio 2019 and Visual Studio 2022 work perfectly with Sagebox.
 
 # Installation
 
@@ -342,7 +340,7 @@ Here is a list of items currently in-progress and expected to be finished in the
 - `Widgets and more Widgets` - Widgets are a powerful aspect to Sagebox, such as the Color Selector, Date Picker, and the Dial  & LCD emulation example.
 	- Other widgets are easily added, such as more Arduino emulations (i.e. 3-D Compass, more detailed LCDs, other hardware),  more color selectors, dual sliders, pop up menus, and so-forth.
 	- Most widgets are completely standalone (i.e. color picker, spline curves, etc.) and can be called with a simple function call only (i.e. Sagebox does not need to be instantiated or otherwise invoked)
-- `Linux version` - The current version started on Windows for alpha release, and the next step is Linux
+- `Linux version` - Linux is a high priority and is currently in progress.  
 - `UI Designer` - The UI designer is like using forms (for larger, less ad-hoc-style programs) but much easier, more free-form based, and with more widgets and ability to use personalized controls.  
   - The UI designer has already been designed, and will be finished as community input helps shape it. 
 - `Real-Time Graphics` -  Already present in Sagebox, more real-time graphics are in-progress.

@@ -8,15 +8,15 @@
 
 # A High-Performance, Procedural GUI Designed for Rapid, Creative Development
 
-Sagebox is a set of GUI-based tools to help you add GUI components to your program, all without adding a lot of event-driven or GUI-specific code just to have
-graphics and controls in your program.  With C++, it can be difficult and time-consuming to write a program with controls and graphics.  
+### Write plain linear, procedural code with no boilerplate.
 
-### Write Programs with GUI Controls and Graphics as Easily as a Scripting Language
+Sagebox was created to make it easy to develop full-scale, procedural applications with advanced GUI controls, while also bringing back the simplicity of creating fun-with-graphics programs.
 
+With simple, linear code, Sagebox lets you create windows, GUI controls and graphical output, without any boilerplate or the overhead of an event-driven framework.
 
-Sagebox was designed to provide the ability to write both Console Mode and full-on Windows programs as easily as regular C++, as easy as a scripting language, and in many ways easier when combined with the power of C++.
+Built from scratch as a cross-platform, comprehensive GUI, Sagebox supports everything from advanced GUI applications to simple creative and educational programs, as well as console-mode projects with drop-in GUI controls. 
 
-Sagebox can be used in an entirely non-event, procedural fashion just like a regular console application. 
+Sagebox is also designed for hobbyist, educational and creative use, enabling rapid prototyping and creative development without the need to write a lot of interface code just to add a button, slider, or other control (or to remove them).
 
 ### No Loss of Efficiency, the Full Power of C++
 
@@ -29,11 +29,15 @@ Sagebox was carefuly crafted with High Performance Computing in mind, and has a 
    <br>
 ### No Magic Code, Wrappers, or Forced Programming Environment 
 
-Sagebox is written as a set of library calls with no boilerplate.  It has no macros or any special code that needs to be written.   You can just call it, and Sagebox manages its own environment.  From simple programs to more complex programs, you can scale Sagebox however you want to. 
-
-Sagebox does not require any type of coding, special wrappers or types.  Sagebox has some great type classes to help with programming, but does not require any of these types to use its functions.  All functions accept and use standard C++ and graphics types (i.e. ***std::string, POINT, SIZE, std::vector,*** etc.). 
+Sagebox is written as a set of library calls with no boilerplate.  It has no macros or any special code that needs to be written.   You can just call it, and Sagebox manages its own environment.  From simple programs to more complex programs, you can scale Sagebox however you want to. All functions accept and use standard C++ and graphics types (i.e. ***std::string, POINT, SIZE, std::vector,*** etc.). 
 
 Setup is easy in Sagebox because there is no setup.   All you have to do is use Sagebox and it self-starts. 
+
+
+> Although this page focuses on procedural examples, Sagebox fully supports event-driven programming for applications built around (or that prefer) that model, and is designed to fully support both models depending on the design of your program.
+
+
+<i>This Windows-based beta showcases Sagebox's core architecture as Linux implementation continues.  The Windows version is fully featured — please feel free to explore it and share feedback.  For more information, see [Sagebox Roadmap](#coming-soon---sagebox-roadmap)  </i>
 
 ### Adding onto Existing Code 
 
@@ -42,9 +46,6 @@ Sagebox simply adds on to existing code, and is easy to remove when you want to 
 Sagebox is useful for adding onto current packages and other UIs such as OpenCV, SFML, etc. giving easy access 
 to GUI-based controls and other functions with an average of two coding lines per addition -- one line to declare a control or widget, and one line to use it.
 <br /><br />
-Sagebox is also very useful for learning and students, hobbyists, and general creative, freeform development & rapid prototyping without the 
-need to write a lot of interface code just to add a button, slider, or other control -- or to remove them.
-
 
 # Easy-to-Use Procedural Library GUI Tools
 
@@ -129,7 +130,7 @@ calls to help with user input and program flow while developing and debugging.
 
 > Sagebox was developed as a powerful and comprehensive GUI that is also very easy to use.<br>
 > It is free to use in personal and commercial projects.<br>
-> Your contributions drive continued development, bring new features and improvements, and help fast-track Linux support. (See [Sagebox Roadmap](#sagebox-roadmap))
+> Your contributions drive continued development, bring new features and improvements, and help fast-track Linux support. (See [Sagebox Roadmap](#coming-soon---sagebox-roadmap))
 <br>
 
 <p align="center">
@@ -160,14 +161,10 @@ calls to help with user input and program flow while developing and debugging.
 
 
 ### Other Things
-- [A Project Based on Community Input](#a-project-based-on-community-input)
-- [Making Sagebox Useful for Everyone](#making-sagebox-useful-for-everyone)
-- [Sagebox is useful for Students, Hobbyists, Researchers, and Professionals](#sagebox-is-useful-for-students-hobbyists-researchers-and-professionals)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Support and Donations](#support-and-donations)
-- [Tip of the Iceberg - Alpha Version and Your Input](#tip-of-the-iceberg---alpha-version-and-your-input)
-- [Coming Soon](#coming-soon)
+- [Coming Soon - Sagebox Roadmap](#coming-soon---sagebox-roadmap)
+- [Support Sagebox](#support-sagebox))
 
 
 <br />
@@ -356,18 +353,14 @@ Here is a list of items currently in-progress and expected to be finished in the
 
 # Support Sagebox
 
-Sagebox is actively developed and welcomes early support from developers and contributors.
+Sagebox is actively developed and welcomes support from developers and contributors.
 
 > Sagebox was developed as a free, powerful and comprehensive GUI that is also very easy to use.<br>
 > It is free to use in personal and commercial projects.<br>
 
-As Sagebox continues to grow, the developer community is invited to help shape its direction and contribute to making it even better.
-
-
+Your contributions drive continued development and help fast-track Linux support. (See [Sagebox Roadmap](#coming-soon---sagebox-roadmap))
 
 If Sagebox feels like something worth supporting, consider contributing to its continued development:
 
-- **[GitHub Sponsors](https://github.com/sponsors/Sagebox)** — One-time or recurring donations.
-- **[OpenCollective (Coming Soon)]** — For larger or institutional support with public transparency.
-
-Your support helps add new features, documentation, and to continue to provide Sagebox free to the Rust community.
+- **[GitHub Sponsors](https://github.com/sponsors/Sagebox)**
+- **[OpenCollective (Coming Soon)]**

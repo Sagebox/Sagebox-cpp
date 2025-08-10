@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Sagebox GUI Tools</h1>
+<h1 align="center">Sagebox for C++</h1>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/70604831/174466253-c4310d66-c687-4864-9893-8f0f70dd4084.png">
@@ -23,6 +23,10 @@ Sagebox can be used in an entirely non-event, procedural fashion just like a reg
 Sagebox was carefuly crafted with High Performance Computing in mind, and has a core engine that is extremely optimized and efficient.  Even with procedural, non-even-driven code, Sagebox loses no efficiency over event-driven programs. 
 
 
+> Sagebox has been used professionally in the tech industry by companies like Pentair and Pioneer, and most recently in the semiconductor field at ASML, where it was called “that magic program.” <br> 
+
+[Click here to see examples on Youtube](https://www.youtube.com/@projectsagebox)
+   <br>
 ### No Magic Code, Wrappers, or Forced Programming Environment 
 
 Sagebox is written as a set of library calls with no boilerplate.  It has no macros or any special code that needs to be written.   You can just call it, and Sagebox manages its own environment.  From simple programs to more complex programs, you can scale Sagebox however you want to. 
@@ -125,7 +129,7 @@ calls to help with user input and program flow while developing and debugging.
 
 > Sagebox was developed as a powerful and comprehensive GUI that is also very easy to use.<br>
 > It is free to use in personal and commercial projects.<br>
-> Contributions keep it free and also keep it growing.  (See [Sagebox Roadmap](#sagebox-roadmap))
+> Your contributions drive continued development, bring new features and improvements, and help fast-track Linux support. (See [Sagebox Roadmap](#sagebox-roadmap))
 <br>
 
 <p align="center">

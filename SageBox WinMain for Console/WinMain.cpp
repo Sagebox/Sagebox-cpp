@@ -1,4 +1,4 @@
-// WinMain.Cpp -- Copyright(c) 2020, 2021 Rob Nelson.  robnelsonxx2@gmail.com -- all rights reserved.
+// WinMain.Cpp -- Copyright(c) 2025, 2026 Rob Nelson.  robnelsonxx2@gmail.com -- all rights reserved.
 // This file, information, and process within are for personal use only and may not be distributed without permission.
 // Please modify, copy, do whatever you want for personal uses.  For professional uses, contact the e-mail address above
 

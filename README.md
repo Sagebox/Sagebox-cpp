@@ -161,11 +161,10 @@ calls to help with user input and program flow while developing and debugging.
 
 
 ### Other Things
-- [Requirements](#requirements))
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [Coming Soon - Sagebox Roadmap](#coming-soon---sagebox-roadmap)
-- [Support Sagebox](#support-sagebox))
-
+- [Support Sagebox](#support-sagebox)
 
 <br />
 

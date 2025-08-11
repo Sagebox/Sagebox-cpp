@@ -14,7 +14,7 @@ Sagebox was created to make it easy to develop full-scale, procedural applicatio
 
 Built from scratch as a cross-platform, comprehensive GUI, Sagebox supports everything from advanced GUI applications to simple creative and educational programs, as well as console-mode projects with drop-in GUI controls. 
 
-### Sagebox helps you focus on creativity, not interface code.
+### Sagebox lets you focus more on creativity, less on interface code.
 
 With simple procedural, linear code, Sagebox lets you create windows, GUI controls and graphical output, without any boilerplate or the overhead of an event-driven framework.
 
